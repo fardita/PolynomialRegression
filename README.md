@@ -1,1 +1,3 @@
 # Coronavirus influence on italy and greece daily arrivals using polynomial regression
+The analyzed phenomenon pertains to the daily recorded landings in Italy and Greece. The objective is to analyze the trend of this migratory phenomenon and identify whether there has been a reduction/increase in this phenomenon due to COVID-19 (Dummy Variable), thereby understanding if COVID-19 has influenced the trend of daily landings in the two countries.
+We will use, as an initial dataset, the dataset containing daily landings in Italy/Greece, the Temporal Variable Ti, and the Covid19 variable. This dataset was obtained by extracting data from .json and .csv files from the website https://data2.unhcr.org/en/situations/mediterranean.
